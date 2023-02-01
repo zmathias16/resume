@@ -11,5 +11,5 @@
 -- lists, csv files, functions, string manipulation, and logic
 - Bash
 - LaTeX
-[My LinkedIn Page](https://www.linkedin.com/in/zachary-mathias-5703b3220/)
-![f](Zach_Mathias.JPG)
+- [My LinkedIn Page](https://www.linkedin.com/in/zachary-mathias-5703b3220/)
+![f](https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/a/d5/ad5f0207-1158-555d-b703-d3aa69e2a490/5ed938a85b7ac.image.jpg)
