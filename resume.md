@@ -1,10 +1,10 @@
 # Zachary Mathias
 **email** zmathias@mines.edu 
 **Address:** Golden, CO
-### Education
-## Undergraduate
+## Education
+### Undergraduate
 - Colorado School of Mines, 2021--Present
-## High School
+### High School
 - Ellensburg High School, 2016-2020
 ### Skills
 - Python
